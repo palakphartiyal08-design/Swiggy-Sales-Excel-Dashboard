@@ -34,7 +34,7 @@ An interactive Excel dashboard designed to analyze Swiggy sales, orders, ratings
 
 ## 📷 Dashboard Preview
 
-![Swiggy Excel Dashboard](swiggy-dashboard.png)
+![Swiggy Excel Dashboard](Screenshot%202026-08-14%20165117.png)
 ## 📁 Project Files
 
 The complete Excel dashboard is available as a project file.
